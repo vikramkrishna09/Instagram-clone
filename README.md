@@ -1,3 +1,10 @@
+This is based off https://pusher.com/tutorials/instagram-clone-part-1 guide by Christian Nwamba
+however i made several improvements to his progrma, follow his instructions in order to be able to run the code
+
+
+
+
+
 # React Series: Building a Simple Instagram Clone
 
 This is a demo application showing how to build a simple Instagram Clone using React and GraphQL with Realtime Functionality and Offline Support with Service Workers.
@@ -24,7 +31,7 @@ Follow these instructions to get a copy of this project up and running on your l
 Clone the repository
 
 ```
-$ git clone https://github.com/christiannwamba/instagram-clone.git
+$ git clone https://github.com/vikramkrishna09/Instagram-clone
 ```
 
 Install dependecies for Frontend
