@@ -1,5 +1,5 @@
 This is based off https://pusher.com/tutorials/instagram-clone-part-1 guide by Christian Nwamba
-however i made several improvements to his progrma, follow his instructions in order to be able to run the code
+however i made several improvements to his program, follow his instructions in order to be able to run the code
 
 
 
