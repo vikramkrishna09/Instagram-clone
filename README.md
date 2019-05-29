@@ -46,7 +46,7 @@ $ cd instagram-clone/server
 $ npm install
 ```
 
-**Using Pusher**
+**Using Pusher** **Not Necessary**
 To add realtime functionality, you need Pusher. Head over to [Pusher](https://pusher.com) and create a new application.
 
 > Note your application keys.
